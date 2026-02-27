@@ -10,8 +10,8 @@ export default function Home() {
           <p>Your guide to exploring Somalia's vibrant capital</p>
         </div>
         <img
-          src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=1200"
-          alt="Mogadishu coastline"
+          src="https://images.unsplash.com/photo-1480714378408-67cf0d13bc1b?w=1200"
+          alt="Mogadishu city"
           className="hero-image"
         />
       </section>
