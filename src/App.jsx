@@ -91,7 +91,7 @@ function AppContent() {
 
 export default function App() {
   return (
-    <BrowserRouter basename="/visit-mogadishu">
+    <BrowserRouter >//basename="/visit-mogadishu"//
       <AppContent />
     </BrowserRouter>
   )
