@@ -1,0 +1,42 @@
+export const fun = [
+  {
+    id: 13,
+    name: "Lido Beach",
+    category: "fun",
+    location: "Mogadishu",
+    image: "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=600",
+    description: "The most popular beach in Mogadishu. Perfect for swimming, relaxing, and enjoying the Indian Ocean.",
+  },
+  {
+    id: 14,
+    name: "Jazeera Beach",
+    category: "fun",
+    location: "Mogadishu",
+    image: "https://images.unsplash.com/photo-1559128010-7c1ad6e1b6a5?w=600",
+    description: "A serene beach offering beautiful sunsets and a peaceful escape from the city.",
+  },
+  {
+    id: 15,
+    name: "Xayaat Park",
+    category: "fun",
+    location: "Mogadishu",
+    image: "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?w=600",
+    description: "A green oasis in the city, ideal for families and picnics.",
+  },
+  {
+    id: 16,
+    name: "Peace Park Mogadishu",
+    category: "fun",
+    location: "Mogadishu",
+    image: "https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=600",
+    description: "A peaceful park for relaxation and community gatherings.",
+  },
+  {
+    id: 17,
+    name: "Liido Park",
+    category: "fun",
+    location: "Mogadishu",
+    image: "https://images.unsplash.com/photo-1598899134739-24c46f58b8c0?w=600",
+    description: "Located near Liido Beach, a great spot for outdoor activities and leisure.",
+  },
+]
